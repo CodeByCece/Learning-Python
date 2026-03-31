@@ -1,0 +1,16 @@
+"""Use a dictionary to store information about a person you know.
+Store their first name, last name, age, and the city in which they live. You
+should have keys such as first_name, last_name, age, and city. Print each
+piece of information stored in your dictionary."""
+
+acquaintances = {
+    'first_name': 'Melissa', 
+    'last_name' : 'Henry',
+    'age' : 25,
+    'city' : 'Boston'}
+
+
+print(acquaintances['first_name'])
+print(acquaintances['last_name'])
+print(acquaintances['age'])
+print(acquaintances['city'])
