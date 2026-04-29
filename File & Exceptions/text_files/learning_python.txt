@@ -1,0 +1,3 @@
+Recently I learned how to construct classes in Python. 
+I also learned how to create methods and instances or objects. 
+It was pretty hard at first but I am glad that I perserved.

@@ -1,0 +1,1 @@
+foster& C:/Users/chant/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/chant/Desktop/Python/Python Learning/Chpt 10_ Files and Exceptions/10-8. Cat and Dogs.py"
